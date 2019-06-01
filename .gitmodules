@@ -1,0 +1,3 @@
+[submodule "test/rpc/rpc-tests"]
+	path = test/rpc/rpc-tests
+	url = https://github.com/ethereum/rpc-tests.git
